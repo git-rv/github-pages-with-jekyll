@@ -1,6 +1,6 @@
 ---
 title: "Collaborate"
-date: "2019-04-28"
+date: 2019-04-28
 ---
 
 # Collaborate
